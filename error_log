@@ -1,0 +1,315 @@
+[15-Mar-2026 23:40:31 UTC] PHP Warning:  file_get_contents(/home/devbidn1/ims.devbid.net/ims/lib/fonts/installed-fonts.dist.json): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/dompdf/dompdf/src/FontMetrics.php on line 114
+[15-Mar-2026 23:40:32 UTC] PHP Warning:  file_get_contents(https://fonts.gstatic.com/s/hindsiliguri/v18/ijwOs5juQtsyLLR5jN4cxBEofJvQxuk.ttf): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/devbidn1/ims.devbid.net/ims/register_font.php on line 18
+[15-Mar-2026 23:51:47 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:51:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:51:47 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:51:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:51:48 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:51:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:52:33 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:52:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:52:33 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:52:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:53:44 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:53:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:53:45 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:53:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:54:53 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:54:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:54:54 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:54:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:55:21 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:55:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:55:22 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:55:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:56:03 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:56:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 Command line code(2): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:56:28 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:56:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 Command line code(2): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:56:57 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:56:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /tmp/test_dompdf.php(2): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:57:24 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:57:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:57:25 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:57:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:57:37 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:57:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:57:38 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:57:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:59:05 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:59:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:59:06 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:59:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:59:07 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[15-Mar-2026 23:59:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:01:07 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:01:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:01:09 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:01:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:05 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../thecodingmachine/safe/lib/special_cases.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../thecodingmachine/safe/lib/special_cases.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:05 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../thecodingmachine/safe/lib/special_cases.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../thecodingmachine/safe/lib/special_cases.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:05 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../thecodingmachine/safe/lib/special_cases.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../thecodingmachine/safe/lib/special_cases.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:06 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../thecodingmachine/safe/lib/special_cases.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../thecodingmachine/safe/lib/special_cases.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:06 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../thecodingmachine/safe/lib/special_cases.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../thecodingmachine/safe/lib/special_cases.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:06 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../thecodingmachine/safe/lib/special_cases.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../thecodingmachine/safe/lib/special_cases.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:07 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:02:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:03:52 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:03:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:03:52 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:03:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:04:25 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:04:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:05:42 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:05:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:05:42 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:05:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:05:45 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:05:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:05:58 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:05:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:05:58 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:05:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:05:59 UTC] PHP Warning:  require(/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php): Failed to open stream: No such file or directory in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
+[16-Mar-2026 00:05:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/devbidn1/ims.devbid.net/ims/vendor/composer/../../app/Helpers/SettingHelper.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/devbidn1/ims.devbid.net/ims/vendor/autoload.php(22): ComposerAutoloaderInit53b5d56b3b7e3cbac1713e68c8850f6c::getLoader()
+#2 /home/devbidn1/ims.devbid.net/ims/artisan(10): require('/home/devbidn1/...')
+#3 {main}
+  thrown in /home/devbidn1/ims.devbid.net/ims/vendor/composer/autoload_real.php on line 41
