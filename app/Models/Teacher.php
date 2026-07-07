@@ -24,8 +24,12 @@ class Teacher extends Model
     {
         parent::boot();
         static::creating(function ($t) {
-            $count = self::count() + 1;
-            $t->teacher_id = 'T-' . str_pad($count, 4, '0', STR_PAD_LEFT);
+            $last = self::orderByDesc('teacher_id')->value('teacher_id');
+            $next = $last ? ((int) substr($last, -4)) + 1 : 1;
+            do {
+                $id = 'T-' . str_pad($next++, 4, '0', STR_PAD_LEFT);
+            } while (self::where('teacher_id', $id)->exists());
+            $t->teacher_id = $id;
         });
     }
 
